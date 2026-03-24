@@ -19,7 +19,7 @@ for u
             top: 40%;
             width: 100%;
             font-size: 40px;
-            opacity: 0.08;
+            opacity: 0.88;
             letter-spacing: 2px;
         }
 
